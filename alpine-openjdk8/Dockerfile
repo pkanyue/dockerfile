@@ -1,4 +1,4 @@
-# rlax/alpine-openjdk8
+# docker build -t rlax/alpine-openjdk8 ./
 FROM openjdk:8-alpine
 
 MAINTAINER Rlax <rlaxuc@gmail.com>
